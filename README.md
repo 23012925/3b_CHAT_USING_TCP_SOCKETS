@@ -55,12 +55,9 @@ def start_client():
 start_client()
 ```
 ## OUTPUT
-
 ### SERVER:
 ![image](https://github.com/Harevasu/3b_CHAT_USING_TCP_SOCKETS/assets/147985044/573c6afe-c536-4186-a51e-5540dc24f076)
 ### CLIENT:
 ![image](https://github.com/Harevasu/3b_CHAT_USING_TCP_SOCKETS/assets/147985044/f0123770-8911-4d8e-90bd-affb94cf8ad6)
-
 ## RESULT
-Thus, the python program for creating Chat using TCP Sockets Links was successfully 
-created and executed.
+Thus, the python program for creating Chat using TCP Sockets Links was successfully created and executed.
